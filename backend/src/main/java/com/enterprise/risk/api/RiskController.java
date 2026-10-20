@@ -24,6 +24,6 @@ public class RiskController {
         return Map.of(
                 "status", "protected",
                 "subject", subject,
-                "control", "JWT validation and authenticated access");
+                "control", "Validación de JWT y acceso autenticado");
     }
 }
